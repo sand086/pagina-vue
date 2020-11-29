@@ -1,0 +1,93 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_4db0e843"
+  },
+  {
+    "name": "book-a-tour",
+    "path": "/book-a-tour",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/book-a-tour.vue",
+    "chunkName": "pages/book-a-tour",
+    "_name": "_48b78f44"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_b0d69054"
+  },
+  {
+    "name": "events",
+    "path": "/events",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/events.vue",
+    "chunkName": "pages/events",
+    "_name": "_517ed253"
+  },
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_25092208"
+  },
+  {
+    "name": "index-2",
+    "path": "/index-2",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/index-2.vue",
+    "chunkName": "pages/index-2",
+    "_name": "_9e9ddba6"
+  },
+  {
+    "name": "index-3",
+    "path": "/index-3",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/index-3.vue",
+    "chunkName": "pages/index-3",
+    "_name": "_9e81aca4"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/news.vue",
+    "chunkName": "pages/news",
+    "_name": "_055d20e6"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_0203f07c"
+  },
+  {
+    "name": "single-event",
+    "path": "/single-event",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/single-event.vue",
+    "chunkName": "pages/single-event",
+    "_name": "_2b11f2e2"
+  },
+  {
+    "name": "single-news",
+    "path": "/single-news",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/single-news.vue",
+    "chunkName": "pages/single-news",
+    "_name": "_735a1dee"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/team.vue",
+    "chunkName": "pages/team",
+    "_name": "_46b95217"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Applications/MAMP/htdocs/CRUD-VUE/vue-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6d68c308"
+  }
+]
